@@ -1,0 +1,60 @@
+body {
+    width: 100%;
+    height: 100px;
+    margin: 0 0;
+    background-image: url(bgr.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: Tahoma;
+    font-size: 20px;
+   
+  }
+  form{
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 50px auto;
+    padding:20px;
+    border: 0;
+    background-color: #1b1b32;
+  opacity: 0.8;
+  }
+  .center{
+    margin-top: 10px;
+    text-align: center;
+  }
+  #title{
+    margin: 40px 10px 0 0;
+  }
+  label{
+    display: inline-block;
+    margin: 0.5rem 2px;
+    
+  } 
+  h1,p,h3{
+    margin: 5px 5px auto;
+    text-align: center;
+  }
+  fieldset{
+    border: none;
+    padding: 2rem 0;
+    border-bottom: 3px solid #3b3b4f;
+  }
+  input,textarea,select{
+    width: 100%;
+    min-height: 2em;
+  }
+  .inline{
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+    
+  }
+  .Mcenter{
+    margin-left:25%
+  }
+  #submit{
+    margin-top: 20px;
+  }
