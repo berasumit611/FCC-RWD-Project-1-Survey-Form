@@ -7,7 +7,7 @@ Build an app that is functionally similar to [Survey-Form](https://survey-form.f
 ![App Screenshot](https://user-images.githubusercontent.com/86337318/228418557-3096e057-0fb2-49b5-9f7a-d2c37d2d69b9.jpg)
 ![App Screenshot](https://user-images.githubusercontent.com/86337318/228418824-fbd68bd1-3319-4ae3-b332-ebb948b46bbd.jpg)
 
-# Task:
+# Test cases:
 
 -   You should have a page title in an h1 element with an id of title
 
