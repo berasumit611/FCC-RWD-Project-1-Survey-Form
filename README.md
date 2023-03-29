@@ -2,10 +2,10 @@
 # Objective: 
 Build an app that is functionally similar to [Survey-Form](https://survey-form.freecodecamp.rocks)
 
-![App Screenshot](https://www.awesomescreenshot.com/image/38440104?key=e57b109ef292c4b90563c734ae233ce0)
-(image.png)
-(image.png)
-
+# Project Screenshot:
+![App Screenshot](https://user-images.githubusercontent.com/86337318/228418383-0fb1b775-7c62-4787-8501-ef4635db8b14.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/86337318/228418557-3096e057-0fb2-49b5-9f7a-d2c37d2d69b9.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/86337318/228418824-fbd68bd1-3319-4ae3-b332-ebb948b46bbd.jpg)
 
 # Task:
 
